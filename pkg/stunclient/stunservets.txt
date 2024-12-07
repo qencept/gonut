@@ -1,0 +1,12 @@
+"stun.voipgate.com:3478"
+"stun.sonetel.net:3478"
+"stun.imp.ch:3478"
+"stun.sma.de:3478"
+
+"52.24.174.49:3478" // stun.sonetel.net
+"52.24.174.49:3479" // stun.sonetel.net
+"52.26.251.34:3478" // stun.sonetel.net
+"52.26.251.34:3479" // stun.sonetel.net
+
+"stun.ekiga.net:3478"
+"stun.nfon.net:3478"
